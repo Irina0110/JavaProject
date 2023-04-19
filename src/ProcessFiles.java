@@ -22,7 +22,7 @@ public class ProcessFiles {
     // The directory and file should be created when the object is created.
 
     public ProcessFiles() {
-        p = Paths.get("C:\\LineTests");
+        p = Paths.get("/Users/irina/Desktop");
         p2 = Paths.get("TestResults.txt");
         p3 = p.resolve(p2);
 
