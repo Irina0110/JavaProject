@@ -8,8 +8,6 @@
  * Collections.sort method.
  * Step 16: Create a method called print that would take your collection
  * and list all of the contents. It should handle all of your classes
- *
- * @author Larson 10/27/2018
  */
 import java.util.Scanner;
 import java.io.FileReader;
