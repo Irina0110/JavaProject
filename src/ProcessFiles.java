@@ -48,7 +48,7 @@ public class ProcessFiles {
         FileWriter writer = new FileWriter(p3.toString(), true);
         PrintWriter printWriter = new PrintWriter(writer);
 
-        printWriter.print("test" + "\n");
+        printWriter.print("test " + "\n");
         printWriter.close();
     }
 
