@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="ChangeListManager">
+        <list default="true" id="cbc188a2-8e28-441d-8a39-7a1373378778" name="Default Changelist" comment="" />
+        <ignored path="$PROJECT_DIR$/out/" />
+        <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+        <option name="SHOW_DIALOG" value="false" />
+        <option name="HIGHLIGHT_CONFLICTS" value="true" />
+        <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+        <option name="LAST_RESOLUTION" value="IGNORE" />
+    </component>
+    <component name="FUSProjectUsageTrigger">
+        <session id="2126422391">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry key="project.closed" value="8" />
+                    <entry key="project.open.time.0" value="2" />
+                    <entry key="project.open.time.2" value="1" />
+                    <entry key="project.open.time.3" value="1" />
+                    <entry key="project.open.time.39" value="2" />
+                    <entry key="project.open.time.4" value="1" />
+                    <entry key="project.open.time.43" value="1" />
+                    <entry key="project.open.time.55" value="1" />
+                    <entry key="project.open.time.8" value="1" />
+                    <entry key="project.open.time.9" value="1" />
+                    <entry key="project.opened" value="11" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.open">
+                <counts>
+                    <entry key="JAVA/" value="1" />
+                    <entry key="java" value="73" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.open">
+                <counts>
+                    <entry key="JAVA" value="73" />
+                    <entry key="UML" value="1" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.edit">
+                <counts>
+                    <entry key="ft" value="6" />
+                    <entry key="java" value="3923" />
+                    <entry key="txt" value="67" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.edit">
+                <counts>
+                    <entry key="JAVA" value="3923" />
+                    <entry key="PLAIN_TEXT" value="67" />
+                    <entry key="VTL" value="6" />
+                </counts>
+            </usages-collector>
+        </session>
+        <session id="-1364288866">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry key="project.closed" value="9" />
+                    <entry key="project.open.time.0" value="1" />
+                    <entry key="project.open.time.1" value="1" />
+                    <entry key="project.open.time.28" value="1" />
+                    <entry key="project.open.time.3" value="1" />
+                    <entry key="project.open.time.30" value="2" />
+                    <entry key="project.open.time.32" value="1" />
+                    <entry key="project.open.time.34" value="1" />
+                    <entry key="project.open.time.35" value="2" />
+                    <entry key="project.open.time.38" value="2" />
+                    <entry key="project.opened" value="12" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.edit">
+                <counts>
+                    <entry key="java" value="1909" />
+                    <entry key="txt" value="54" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.edit">
+                <counts>
+                    <entry key="JAVA" value="1909" />
+                    <entry key="PLAIN_TEXT" value="54" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.open">
+                <counts>
+                    <entry key="java" value="22" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.open">
+                <counts>
+                    <entry key="JAVA" value="22" />
+                </counts>
+            </usages-collector>
+        </session>
+        <session id="-797481080">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry key="project.open.time.3" value="1" />
+                    <entry key="project.opened" value="1" />
+                </counts>
+            </usages-collector>
+        </session>
+    </component>
+    <component name="FavoritesManager">
+        <favorites_list name="OOPAlpha" />
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/MoviePlayer.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="17">
+                            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/Main.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="204">
+                            <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+                            <folding>
+                                <element signature="n#!!doc" expanded="true" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/MoviePlayerDriver.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="17">
+                            <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/PlayerDriver.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="34">
+                            <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/AudioPlayer.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="153">
+                            <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/ScreenSpec.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="323">
+                            <caret line="19" selection-start-line="19" selection-end-line="19" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/Screen.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="119">
+                            <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/src/ScreenDriver.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="238">
+                            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/Product.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="323">
+                            <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+                            <folding>
+                                <element signature="n#!!doc" expanded="true" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/MonitorType.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="102">
+                            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="FileTemplateManagerImpl">
+        <option name="RECENT_TEMPLATES">
+            <list>
+                <option value="Enum" />
+                <option value="Interface" />
+                <option value="Class" />
+            </list>
+        </option>
+    </component>
+    <component name="Git.Settings">
+        <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+        <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/src/Test.java" />
+                <option value="$PROJECT_DIR$/src/Item.java" />
+                <option value="$PROJECT_DIR$/src/AudioPlayer.java" />
+                <option value="$PROJECT_DIR$/src/Product.java" />
+                <option value="$PROJECT_DIR$/src/MultimediaControl.java" />
+                <option value="$PROJECT_DIR$/src/ItemType.java" />
+                <option value="$PROJECT_DIR$/src/AudioPlayerDriver.java" />
+                <option value="$PROJECT_DIR$/src/MonitorType.java" />
+                <option value="$PROJECT_DIR$/src/ScreenSpec.java" />
+                <option value="$PROJECT_DIR$/src/Screen.java" />
+                <option value="$PROJECT_DIR$/src/ScreenDriver.java" />
+                <option value="$PROJECT_DIR$/src/MoviePlayer.java" />
+                <option value="$PROJECT_DIR$/src/MoviePlayerDriver.java" />
+                <option value="$PROJECT_DIR$/src/PlayerDriver.java" />
+                <option value="$PROJECT_DIR$/src/Main.java" />
+            </list>
+        </option>
+    </component>
+    <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+    <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+    <component name="JsGulpfileManager">
+        <detection-done>true</detection-done>
+        <sorting>DEFINITION_ORDER</sorting>
+    </component>
+    <component name="ProjectFrameBounds">
+        <option name="x" value="258" />
+        <option name="y" value="33" />
+        <option name="width" value="996" />
+        <option name="height" value="920" />
+    </component>
+    <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+    <component name="ProjectView">
+        <navigator proportions="" version="1">
+            <foldersAlwaysOnTop value="true" />
+        </navigator>
+        <panes>
+            <pane id="ProjectPane">
+                <subPane>
+                    <expand>
+                        <path>
+                            <item name="OOPAlpha" type="b2602c69:ProjectViewProjectNode" />
+                            <item name="OOPAlpha" type="462c0819:PsiDirectoryNode" />
+                        </path>
+                        <path>
+                            <item name="OOPAlpha" type="b2602c69:ProjectViewProjectNode" />
+                            <item name="OOPAlpha" type="462c0819:PsiDirectoryNode" />
+                            <item name="src" type="462c0819:PsiDirectoryNode" />
+                        </path>
+                    </expand>
+                    <select />
+                </subPane>
+            </pane>
+            <pane id="Scope" />
+            <pane id="AndroidView" />
+            <pane id="PackagesPane" />
+        </panes>
+    </component>
+    <component name="PropertiesComponent">
+        <property name="ToolWindowFindBugs-IDEA.ShowToolbar" value="false" />
+        <property name="WebServerToolWindowFactoryState" value="false" />
+        <property name="aspect.path.notification.shown" value="true" />
+        <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540650315730" />
+        <property name="last_opened_file_path" value="$PROJECT_DIR$/../BooksDatabase" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    </component>
+    <component name="RunDashboard">
+        <option name="ruleStates">
+            <list>
+                <RuleState>
+                    <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+                </RuleState>
+                <RuleState>
+                    <option name="name" value="StatusDashboardGroupingRule" />
+                </RuleState>
+            </list>
+        </option>
+    </component>
+    <component name="RunManager">
+        <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+            <option name="MAIN_CLASS_NAME" value="Main" />
+            <module name="OOPAlpha" />
+            <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+            <RunnerSettings RunnerId="Run" />
+            <ConfigurationWrapper RunnerId="Run" />
+            <method v="2">
+                <option name="Make" enabled="true" />
+            </method>
+        </configuration>
+        <recent_temporary>
+            <list>
+                <item itemvalue="Application.Main" />
+            </list>
+        </recent_temporary>
+    </component>
+    <component name="SvnConfiguration">
+        <configuration />
+    </component>
+    <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+            <changelist id="cbc188a2-8e28-441d-8a39-7a1373378778" name="Default Changelist" comment="" />
+            <created>1538232571808</created>
+            <option name="number" value="Default" />
+            <option name="presentableId" value="Default" />
+            <updated>1538232571808</updated>
+            <workItem from="1538232573231" duration="5963000" />
+            <workItem from="1538238606424" duration="2659000" />
+            <workItem from="1538241291553" duration="1375000" />
+            <workItem from="1538404951131" duration="2045000" />
+            <workItem from="1538577181329" duration="646000" />
+            <workItem from="1539133515791" duration="2371000" />
+            <workItem from="1539182018922" duration="812000" />
+            <workItem from="1539352437030" duration="1287000" />
+            <workItem from="1539613960072" duration="1214000" />
+            <workItem from="1539785868314" duration="649000" />
+            <workItem from="1539962188475" duration="4713000" />
+            <workItem from="1540218726249" duration="1621000" />
+            <workItem from="1540247242291" duration="4000" />
+            <workItem from="1540247272880" duration="3017000" />
+            <workItem from="1540313927641" duration="681000" />
+            <workItem from="1540403564251" duration="3342000" />
+            <workItem from="1540522291477" duration="2610000" />
+            <workItem from="1540564449782" duration="5202000" />
+            <workItem from="1540574226951" duration="4675000" />
+            <workItem from="1540647303276" duration="3222000" />
+            <workItem from="1540823550799" duration="620000" />
+            <workItem from="1540996629133" duration="1566000" />
+            <workItem from="1541432917247" duration="606000" />
+            <workItem from="1541604749318" duration="2180000" />
+        </task>
+        <task id="LOCAL-00001" summary="Step 4 complete">
+            <created>1538240388088</created>
+            <option name="number" value="00001" />
+            <option name="presentableId" value="LOCAL-00001" />
+            <option name="project" value="LOCAL" />
+            <updated>1538240388088</updated>
+        </task>
+        <task id="LOCAL-00002" summary="Short documentation added">
+            <created>1538241197223</created>
+            <option name="number" value="00002" />
+            <option name="presentableId" value="LOCAL-00002" />
+            <option name="project" value="LOCAL" />
+            <updated>1538241197223</updated>
+        </task>
+        <task id="LOCAL-00003" summary="Changed String manufturer in Product">
+            <created>1538405174498</created>
+            <option name="number" value="00003" />
+            <option name="presentableId" value="LOCAL-00003" />
+            <option name="project" value="LOCAL" />
+            <updated>1538405174499</updated>
+        </task>
+        <task id="LOCAL-00004" summary="IT WORKS">
+            <created>1538407826765</created>
+            <option name="number" value="00004" />
+            <option name="presentableId" value="LOCAL-00004" />
+            <option name="project" value="LOCAL" />
+            <updated>1538407826765</updated>
+        </task>
+        <task id="LOCAL-00005" summary="up to 10">
+            <created>1539965766239</created>
+            <option name="number" value="00005" />
+            <option name="presentableId" value="LOCAL-00005" />
+            <option name="project" value="LOCAL" />
+            <updated>1539965766240</updated>
+        </task>
+        <task id="LOCAL-00006" summary="up to 10">
+            <created>1539965797645</created>
+            <option name="number" value="00006" />
+            <option name="presentableId" value="LOCAL-00006" />
+            <option name="project" value="LOCAL" />
+            <updated>1539965797645</updated>
+        </task>
+        <task id="LOCAL-00007" summary="up to 10">
+            <created>1539966894077</created>
+            <option name="number" value="00007" />
+            <option name="presentableId" value="LOCAL-00007" />
+            <option name="project" value="LOCAL" />
+            <updated>1539966894077</updated>
+        </task>
+        <task id="LOCAL-00008" summary="up to 10">
+            <created>1540406906429</created>
+            <option name="number" value="00008" />
+            <option name="presentableId" value="LOCAL-00008" />
+            <option name="project" value="LOCAL" />
+            <updated>1540406906429</updated>
+        </task>
+        <task id="LOCAL-00009" summary="up to 13">
+            <created>1540567525339</created>
+            <option name="number" value="00009" />
+            <option name="presentableId" value="LOCAL-00009" />
+            <option name="project" value="LOCAL" />
+            <updated>1540567525339</updated>
+        </task>
+        <task id="LOCAL-00010" summary="up to 16">
+            <created>1540578499501</created>
+            <option name="number" value="00010" />
+            <option name="presentableId" value="LOCAL-00010" />
+            <option name="project" value="LOCAL" />
+            <updated>1540578499501</updated>
+        </task>
+        <task id="LOCAL-00011" summary="up to 16 w/ comments">
+            <created>1540650305038</created>
+            <option name="number" value="00011" />
+            <option name="presentableId" value="LOCAL-00011" />
+            <option name="project" value="LOCAL" />
+            <updated>1540650305038</updated>
+        </task>
+        <option name="localTasksCounter" value="12" />
+        <servers />
+    </component>
+    <component name="TimeTrackingManager">
+        <option name="totallyTimeSpent" value="53080000" />
+    </component>
+    <component name="TodoView">
+        <todo-panel id="selected-file">
+            <is-autoscroll-to-source value="true" />
+        </todo-panel>
+        <todo-panel id="all">
+            <are-packages-shown value="true" />
+            <is-autoscroll-to-source value="true" />
+        </todo-panel>
+    </component>
+    <component name="ToolWindowManager">
+        <frame x="258" y="33" width="996" height="920" extended-state="0" />
+        <layout>
+            <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731183" visible="true" weight="0.22008547" />
+            <window_info id="Structure" order="1" sideWeight="0.50268817" side_tool="true" weight="0.19871795" />
+            <window_info id="Image Layers" order="2" />
+            <window_info id="Designer" order="3" />
+            <window_info id="UI Designer" order="4" />
+            <window_info id="Capture Tool" order="5" />
+            <window_info id="Favorites" order="6" sideWeight="0.50268817" side_tool="true" weight="0.19871795" />
+            <window_info anchor="bottom" id="Message" order="0" />
+            <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
+            <window_info anchor="bottom" id="Run" order="2" weight="0.32618684" />
+            <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+            <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+            <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+            <window_info anchor="bottom" id="TODO" order="6" weight="0.32924962" />
+            <window_info anchor="bottom" id="Version Control" order="7" weight="0.32924962" />
+            <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+            <window_info anchor="bottom" id="Terminal" order="9" weight="0.32924962" />
+            <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+            <window_info anchor="bottom" id="Messages" order="11" weight="0.32924962" />
+            <window_info anchor="bottom" id="FindBugs-IDEA" order="12" visible="true" weight="0.04162103" />
+            <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+            <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+            <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+            <window_info anchor="right" id="Palette" order="3" />
+            <window_info anchor="right" id="Capture Analysis" order="4" />
+            <window_info anchor="right" id="Database" order="5" />
+            <window_info anchor="right" id="Theme Preview" order="6" />
+            <window_info anchor="right" id="Palette&#9;" order="7" />
+            <window_info anchor="right" id="Maven Projects" order="8" />
+        </layout>
+    </component>
+    <component name="TypeScriptGeneratedFilesManager">
+        <option name="version" value="1" />
+    </component>
+    <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+    </component>
+    <component name="VcsManagerConfiguration">
+        <MESSAGE value="Step 4 complete" />
+        <MESSAGE value="Short documentation added" />
+        <MESSAGE value="Changed String manufturer in Product" />
+        <MESSAGE value="IT WORKS" />
+        <MESSAGE value="up to 10" />
+        <MESSAGE value="up to 13" />
+        <MESSAGE value="up to 16" />
+        <MESSAGE value="up to 16 w/ comments" />
+        <option name="LAST_COMMIT_MESSAGE" value="up to 16 w/ comments" />
+    </component>
+    <component name="editorHistoryManager">
+        <entry file="file://$PROJECT_DIR$/src/Test.java" />
+        <entry file="uml://JAVA/">
+            <provider selected="true" editor-type-id="UmlEditorProvider">
+                <state>
+                    <ID>JAVA</ID>
+                    <OriginalElement />
+                    <nodes>
+                        <node x="0.0" y="528.0">com</node>
+                        <node x="0.0" y="380.0">netscape</node>
+                        <node x="0.0" y="454.0">PlayerDriver</node>
+                        <node x="115.5" y="79.0">MultimediaControl</node>
+                        <node x="171.0" y="380.0">MonitorType</node>
+                        <node x="322.0" y="79.0">Screen</node>
+                        <node x="293.0" y="528.0">ItemType</node>
+                        <node x="0.0" y="158.0">AudioPlayer</node>
+                        <node x="5.5" y="79.0">Product</node>
+                        <node x="436.0" y="528.0">sun</node>
+                        <node x="142.5" y="158.0">MoviePlayer</node>
+                        <node x="14.5" y="0.0">Item</node>
+                        <node x="464.0" y="232.0">groovyjarjarasm</node>
+                        <node x="148.0" y="528.0">java</node>
+                        <node x="466.0" y="454.0">javax</node>
+                        <node x="494.0" y="380.0">ScreenDriver</node>
+                        <node x="309.5" y="0.0">ScreenSpec</node>
+                        <node x="312.0" y="454.0">javafx</node>
+                        <node x="156.0" y="454.0">oracle</node>
+                        <node x="0.0" y="602.0">org</node>
+                        <node x="189.0" y="306.0">AudioPlayerDriver</node>
+                        <node x="377.0" y="306.0">META-INF</node>
+                        <node x="142.0" y="602.0">jdk</node>
+                        <node x="333.0" y="380.0">groovy</node>
+                        <node x="0.0" y="306.0">MoviePlayerDriver</node>
+                        <node x="0.0" y="232.0">groovyjarjarcommonscli</node>
+                        <node x="253.0" y="232.0">groovyjarjarantlr</node>
+                        <node x="282.0" y="602.0">Main</node>
+                    </nodes>
+                    <notes />
+                    <edges>
+                        <edge source="AudioPlayer" target="Product">
+                            <point x="-28.0" y="-14.5" />
+                            <point x="-22.5" y="14.5" />
+                        </edge>
+                        <edge source="MoviePlayer" target="Product">
+                            <point x="-28.25" y="-14.5" />
+                            <point x="170.75" y="128.0" />
+                            <point x="73.0" y="128.0" />
+                            <point x="22.5" y="14.5" />
+                        </edge>
+                        <edge source="Screen" target="ScreenSpec">
+                            <point x="0.0" y="-14.5" />
+                            <point x="0.0" y="14.5" />
+                        </edge>
+                        <edge source="AudioPlayer" target="MultimediaControl">
+                            <point x="28.0" y="-14.5" />
+                            <point x="84.0" y="138.0" />
+                            <point x="152.75" y="138.0" />
+                            <point x="-37.25" y="14.5" />
+                        </edge>
+                        <edge source="MoviePlayer" target="MultimediaControl">
+                            <point x="28.25" y="-14.5" />
+                            <point x="37.25" y="14.5" />
+                        </edge>
+                        <edge source="Product" target="Item">
+                            <point x="0.0" y="-14.5" />
+                            <point x="0.0" y="14.5" />
+                        </edge>
+                    </edges>
+                    <settings layout="Hierarchic Group" zoom="0.4930875576036866" x="44.0" y="467.0" />
+                    <SelectedNodes>
+                        <node>com</node>
+                    </SelectedNodes>
+                    <Categories />
+                    <SCOPE>All</SCOPE>
+                    <VISIBILITY>private</VISIBILITY>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/MultimediaControl.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                    <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/Item.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                    <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/ItemType.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                    <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/AudioPlayerDriver.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state>
+                    <caret selection-end-line="4" selection-end-column="3" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                    <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+                    <folding>
+                        <element signature="n#!!doc" expanded="true" />
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/MoviePlayerDriver.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                    <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/AudioPlayer.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                    <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/ScreenSpec.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                    <caret line="19" selection-start-line="19" selection-end-line="19" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/Screen.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                    <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/MonitorType.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                    <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/MoviePlayer.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                    <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/PlayerDriver.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                    <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/Product.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                    <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+                    <folding>
+                        <element signature="n#!!doc" expanded="true" />
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/src/ScreenDriver.java">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                    <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                </state>
+            </provider>
+        </entry>
+    </component>
+    <component name="masterDetails">
+        <states>
+            <state key="ArtifactsStructureConfigurable.UI">
+                <settings>
+                    <artifact-editor />
+                    <splitter-proportions>
+                        <option name="proportions">
+                            <list>
+                                <option value="0.2" />
+                            </list>
+                        </option>
+                    </splitter-proportions>
+                </settings>
+            </state>
+            <state key="FacetStructureConfigurable.UI">
+                <settings>
+                    <last-edited>No facets are configured</last-edited>
+                    <splitter-proportions>
+                        <option name="proportions">
+                            <list>
+                                <option value="0.2" />
+                            </list>
+                        </option>
+                    </splitter-proportions>
+                </settings>
+            </state>
+            <state key="GlobalLibrariesConfigurable.UI">
+                <settings>
+                    <splitter-proportions>
+                        <option name="proportions">
+                            <list>
+                                <option value="0.2" />
+                            </list>
+                        </option>
+                    </splitter-proportions>
+                </settings>
+            </state>
+            <state key="JdkListConfigurable.UI">
+                <settings>
+                    <last-edited>1.8</last-edited>
+                    <splitter-proportions>
+                        <option name="proportions">
+                            <list>
+                                <option value="0.2" />
+                            </list>
+                        </option>
+                    </splitter-proportions>
+                </settings>
+            </state>
+            <state key="ModuleStructureConfigurable.UI">
+                <settings>
+                    <last-edited>OOPAlpha</last-edited>
+                    <splitter-proportions>
+                        <option name="proportions">
+                            <list>
+                                <option value="0.2" />
+                                <option value="0.6" />
+                            </list>
+                        </option>
+                    </splitter-proportions>
+                </settings>
+            </state>
+            <state key="ProjectLibrariesConfigurable.UI">
+                <settings>
+                    <splitter-proportions>
+                        <option name="proportions">
+                            <list>
+                                <option value="0.2" />
+                            </list>
+                        </option>
+                    </splitter-proportions>
+                </settings>
+            </state>
+        </states>
+    </component>
+</project>
